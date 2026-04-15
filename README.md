@@ -1,5 +1,9 @@
 # 👨‍💻 Axell Salazar | DelPieroDev
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=const+axell+%3D+%7B;age%3A+%2224y%22%2C;identity%3A+%22Mateito%3C3%22%2C;role%3A+%22Full+Stack+Developer%22%2C;focus%3A+%5B%22Web+Apps%22%2C+%22Mobile+Apps%22%5D%2C;sideHustle%3A+%22DJ+on+the+side%22;%7D;&center=true&width=600&height=200">
+</p>
+
 ---
 
 ```js
@@ -10,7 +14,6 @@ const axell = {
   focus: ["Web Apps", "Mobile Apps", "Scalable Solutions"],
   sideHustle: "DJ on the side"
 };
-```
 
 ---
 
