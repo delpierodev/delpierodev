@@ -10,6 +10,9 @@
 const axell = {
   age: "24y",
   identity: "Mateito<3",
+  Nationality: "Peruvian",
+  City: "Lima",
+  handsome: "under review"
   role: "Full Stack Developer",
   focus: ["Web Apps", "Mobile Apps", "Scalable Solutions"],
   sideHustle: "DJ on the side"
