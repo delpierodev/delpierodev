@@ -14,6 +14,7 @@ const axell = {
   focus: ["Web Apps", "Mobile Apps", "Scalable Solutions"],
   sideHustle: "DJ on the side"
 };
+```
 
 ---
 
