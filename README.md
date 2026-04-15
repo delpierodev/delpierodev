@@ -1,9 +1,5 @@
 # 👨‍💻 Axell Salazar | DelPieroDev
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+%26+Mobile+Apps;Clean+Code+%7C+Scalable+Solutions;DJ+on+the+side&center=true&width=500&height=45">
-</p>
-
 ---
 
 ```js
@@ -12,36 +8,67 @@ const axell = {
   identity: "Mateito<3",
   role: "Full Stack Developer",
   focus: ["Web Apps", "Mobile Apps", "Scalable Solutions"],
-  sideHustle: "DJ"
+  sideHustle: "DJ on the side"
 };
+```
 
-🚀 About Me
+---
 
-💻 Ingeniero de Sistemas apasionado por el desarrollo de aplicaciones modernas, eficientes y escalables.
-🚀 Enfocado en crear soluciones digitales que generen impacto real.
-⚡ Amante del código limpio, buenas prácticas y aprendizaje continuo.
+## 🚀 About Me
 
-⚡ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,mysql,firebase,git,github" /> </p>
+💻 Systems Engineer specialized in building modern, scalable web applications.
+🚀 Focused on creating digital solutions that deliver real impact.
+⚡ Passionate about clean code, performance and continuous learning.
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=delpierodev&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=delpierodev&theme=tokyonight" /> </p>
+---
 
-🚀 Top Projects
+## ⚡ Tech Stack
 
-🔹 Sistema Web para Gestión de Laboratorio Dental
-🔹 Aplicaciones Web modernas con React & Firebase
-🔹 Soluciones personalizadas para negocios
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,mysql,firebase,git,github" />
+</p>
 
-🎧 Lifestyle
+---
+
+## 🚀 Featured Projects
+
+🔹 **Dental Lab Management System**
+Web system to manage requests and workflow for dental laboratories
+
+🔹 **Modern Web Apps (React & Firebase)**
+Scalable applications with real-time data and clean UI
+
+🔹 **Custom Business Solutions**
+Tailored systems to optimize business processes
+
+---
+
+## 🎧 Lifestyle
 
 🎧 DJ on the side
 
-📫 Contact
-<p align="center"> <a href="malito:axell19071@gmail.com"> <img src="https://img.shields.io/badge/Email-contact-blue?style=for-the-badge&logo=gmail"> </a> <a href="https://wa.me/51951307319"> <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp"> </a> </p>
+---
 
-🚀 Motto
+## 📫 Contact
 
-Building digital solutions with passion & purpose.
+<p align="center">
+  <a href="mailto:axell19071@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contact-blue?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://wa.me/51951307319">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp">
+  </a>
+</p>
 
-<p align="center"> ⭐ Always learning. Always building. </p> ```
+---
+
+## 🚀 Motto
+
+> Building digital solutions with passion & purpose.
+
+---
+
+<p align="center">
+🔥 Turning ideas into digital solutions  
+⭐ Always learning. Always building.
+</p>
